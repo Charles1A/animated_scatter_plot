@@ -1,0 +1,102 @@
+﻿SYMBOL ,NAME ,PRICE ,CHANGE ,%CHANGE 
+AMD,Advanced Micro Devices Inc,98.01,0.13,0.13
+ADBE,Adobe Inc.,385.37,3.47,0.91
+ABNB,Airbnb Inc,124.4,2.12,1.73
+ALGN,Align Technology Inc,334.14,22.29,7.15
+AMZN,Amazon.com Inc,103.29,1.29,1.26
+AMGN,Amgen Inc,241.75,0.25,0.1
+AEP,American Electric Power Company Inc,90.99,0.56,0.62
+ADI,Analog Devices Inc,197.22,3.01,1.55
+ANSS,ANSYS Inc,332.8,6.76,2.07
+AAPL,Apple Inc,164.9,2.54,1.56
+AMAT,Applied Materials Inc,122.83,0.72,0.59
+ASML,ASML Holding NV,680.71,4.03,0.6
+TEAM,Atlassian Corp,171.17,10.58,6.59
+ADSK,Autodesk Inc,208.16,6.55,3.25
+ATVI,Activision Blizzard Inc,85.59,0.7,0.82
+ADP,Automatic Data Processing Inc,222.63,3.14,1.43
+AZN,AstraZeneca PLC,69.41,0.21,0.3
+BKR,Baker Hughes Co,28.86,0.11,0.38
+AVGO,Broadcom Inc,641.54,7.79,1.23
+BIIB,Biogen Inc,278.03,2.9,1.05
+BMRN,Biomarin Pharmaceutical Inc,97.24,1.95,2.05
+BKNG,Booking Holdings Inc,"2,652.41",42.65,1.63
+CDNS,Cadence Design Systems Inc,210.09,3.08,1.49
+CHTR,Charter Communications Inc,357.61,8.56,2.45
+CPRT,Copart Inc,75.21,1.73,2.35
+CSGP,CoStar Group Inc,68.85,0.7,1.03
+CRWD,CrowdStrike Holdings Inc,137.26,5.54,4.21
+CTAS,Cintas Corp,462.68,-4.96,-1.06
+CSCO,Cisco Systems Inc,52.27,0.84,1.64
+CMCSA,Comcast Corp,37.91,0.76,2.05
+COST,Costco Wholesale Corp,496.87,5.39,1.1
+CSX,CSX Corp,29.94,0.44,1.49
+CTSH,Cognizant Technology Solutions Corp,60.93,1.12,1.87
+DDOG,Datadog Inc,72.66,4.75,6.99
+DXCM,Dexcom Inc,116.18,1.78,1.56
+FANG,Diamondback Energy Inc,135.17,1.87,1.4
+DLTR,Dollar Tree Inc,143.55,2.74,1.95
+EA,Electronic Arts,120.45,1.35,1.13
+EBAY,eBay Inc,44.37,0.46,1.05
+ENPH,Enphase Energy Inc,210.28,5.01,2.44
+EXC,Exelon Corp,41.89,0.44,1.06
+FAST,Fastenal Co,53.94,1.12,2.12
+GFS,Globalfoundries Inc,72.18,1.62,2.3
+META,Meta Platforms Inc,211.94,4.1,1.97
+FISV,Fiserv Inc,113.03,0.03,0.03
+FTNT,Fortinet Inc,66.46,0.65,0.99
+GILD,Gilead Sciences Inc,82.97,1.52,1.87
+GOOG,Alphabet Class C,104,2.68,2.65
+GOOGL,Alphabet Class A,103.73,2.84,2.81
+HON,Honeywell International Inc,191.12,2,1.06
+ILMN,Illumina Inc,232.55,7.29,3.24
+INTC,Intel Corp,32.67,0.58,1.81
+INTU,Intuit Inc,445.83,5.74,1.3
+ISRG,Intuitive Surgical Inc,255.47,4.17,1.66
+MRVL,Marvell Technology Inc,43.3,0.05,0.12
+IDXX,IDEXX Laboratories Inc,500.08,6.53,1.32
+JD,JD.Com Inc,43.89,-0.51,-1.15
+KDP,Keurig Dr Pepper Inc,35.28,0.15,0.43
+KLAC,KLA Corp,399.17,3.14,0.79
+KHC,Kraft Heinz Co,38.67,-0.17,-0.44
+LRCX,Lam Research Corp,530.12,-1.24,-0.23
+LCID,Lucid Group Inc,8.04,0.42,5.51
+LULU,Lululemon Athletica Inc,364.19,6.1,1.7
+MELI,MercadoLibre Inc,"1,318.06",51.26,4.05
+MAR,Marriott International Inc,166.04,3.37,2.07
+MCHP,Microchip Technology Inc,83.78,1,1.21
+MDLZ,Mondelez International Inc,69.72,0.14,0.2
+MRNA,Moderna Inc,153.58,6.14,4.16
+MNST,Monster Beverage Corp,54.01,1.52,2.9
+MSFT,Microsoft Corp,288.3,4.25,1.5
+MU,Micron Technology Inc,60.34,-2.75,-4.36
+NFLX,Netflix Inc,345.48,7.05,2.08
+NVDA,NVIDIA Corp,277.77,3.94,1.44
+NXPI,NXP Semiconductors NV,186.47,4.85,2.67
+ODFL,Old Dominion Freight Line Inc,340.84,7.23,2.17
+ORLY,O’Reilly Automotive Inc,848.98,7.48,0.89
+PCAR,Paccar Inc,73.2,0.99,1.37
+PANW,Palo Alto Networks Inc,199.74,6.17,3.19
+PAYX,Paychex Inc,114.59,1.05,0.92
+PDD,PDD Holdings Inc,75.9,-0.54,-0.71
+PYPL,PayPal Holdings Inc,75.94,1.55,2.08
+PEP,PepsiCo Inc.,182.3,1.47,0.81
+QCOM,Qualcomm Inc,127.58,0.18,0.14
+REGN,Regeneron Pharmaceuticals Inc,821.67,10.17,1.25
+RIVN,Rivian Automotive Inc,15.48,1.08,7.5
+ROST,Ross Stores Inc,106.13,3,2.91
+SIRI,Sirius XM Holdings Inc,3.97,0.01,0.25
+SGEN,Seagen Inc,202.47,-0.61,-0.3
+SBUX,Starbucks Corp,104.13,2.81,2.77
+SNPS,Synopsys Inc,386.25,10.31,2.74
+TSLA,Tesla Inc,207.46,12.18,6.24
+TXN,Texas Instruments Inc,186.01,1.77,0.96
+TMUS,T-Mobile US Inc,144.84,0.27,0.19
+VRSK,Verisk Analytics Inc,191.86,0.9,0.47
+VRTX,Vertex Pharmaceuticals Inc,315.07,2.91,0.93
+WBA,Walgreens Boots Alliance Inc,34.58,-0.05,-0.14
+WBD,Warner Bros Discovery Inc,15.1,0.25,1.68
+WDAY,Workday Inc,206.54,6.49,3.24
+XEL,Xcel Energy Inc,67.44,0.53,0.79
+ZM,Zoom Video Communications Inc,73.84,1.8,2.5
+ZS,Zscaler Inc,116.83,4.61,4.11
